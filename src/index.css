@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,600,700');
+
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Raleway';
+  background-image: url('/images/bg.png');
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  background-attachment: fixed;
+  height: calc(100vh - 56px);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.infobox *{
+  margin: 3px; 
+}
+.infobox{
+  color: #3c4347;
+}
+.infobox button{
+  margin-top: 20px; 
+}
+
+.availableTA{
+  margin-top: 20px;
+}
+
+.availableTA h5{
+  color: #5ca7b6;
+  font-weight: bold;
+}
+
+.DateProgressBar label{
+  font-size: 12px;
+  color: #5ca7b6;
+  font-weight: bold;
+}
+
+.heading-1{
+  font-size: 25px;
+  color:#5ca7b6;
+  font-weight: bold;
+}
+
+.introBox{
+  min-width: 385px;
+}
+
+#welcomeMessage{
+  height: calc(100vh - 56px);
+}
+
+.indNotice{
+  border-left: 4px solid #7fedff;
+  border-top: 2px solid #ececec;
+}
+
+#noticeMain{
+  color: #3c4347;
+  line-height: 1.2;
+}
+.section{
+  margin-top: 20px;
+}
+
+li{
+  list-style: none;
+}
+
+.activeVerNavBar{
+  background: #f0f0f0;
+}

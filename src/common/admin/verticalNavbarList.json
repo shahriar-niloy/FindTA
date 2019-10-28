@@ -1,0 +1,30 @@
+[
+    {
+        "displayText": "Page Statistics",
+        "to": "/admin/"
+    },
+    {
+        "displayText": "Add Notice",
+        "to": "/admin/addNotice"
+    },
+    {
+        "displayText": "Manage Notice",
+        "to": "/admin/manageNotice"
+    },
+    {
+        "displayText": "Add Courses",
+        "to": "/admin/addCourse"
+    },
+    {
+        "displayText": "Manage Course",
+        "to": "/admin/manageCourse"
+    },
+    {
+        "displayText": "Update Office Hour",
+        "to": "/admin/updateOH"
+    },
+    {
+        "displayText": "Update Instructor Office Hour",
+        "to": "/admin/insUpdateOH"
+    }
+]

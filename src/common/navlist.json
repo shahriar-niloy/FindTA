@@ -1,0 +1,26 @@
+[
+    {
+        "displayValue": "Home", "to": "/", "common": true
+    },
+    {
+        "displayValue": "Courses", "to": "/courses",  "common": true
+    },
+    {
+        "displayValue": "Instructors", "to": "/instructors", "common": true
+    },
+    {
+        "displayValue": "UTA", "to": "/uta", "common": true
+    },
+    {
+        "displayValue": "Notice", "to": "/notice", "common": true
+    },
+    {
+        "displayValue": "Login", "to": "/login", "common": false, "loginState": false
+    },
+    {
+        "displayValue": "Dashboard", "to": "/admin", "common": false, "loginState": true
+    },
+    {
+        "displayValue": "Logout", "to": "/logout", "common": false, "loginState": true
+    }
+]
